@@ -6,3 +6,11 @@
 		(bonus point) Fetch the data from the newly stored sqlite database
 3. List overall sale of each petroleam product by country.
 4. List average sale of each petroleum product for 2 years of interval. Note: Do not count zero during average calulation
+
+### Credits goes to YIPL for the amazing challenge
+
+
+## Usage
+
+1. Run python report.py to fetch the data and store in db.
+2. Run python query.py to see the data
