@@ -2,7 +2,7 @@ import requests
 import json
 import sqlite3
 
-url = 'https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json'
+url = 'https://raw.githubusercontent.com/SushanShakya/python-and-data/main/data.json'
 
 DROP_YEAR_TABLE = '''
 DROP TABLE IF EXISTS YEAR;
